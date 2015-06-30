@@ -2574,6 +2574,11 @@
         "org": "Post- och telestyrelsen (PTS)",
         "type": "Myndighet"
     },
+    "qvitoo.com": {
+        "domain": "qvitoo.com",
+        "org": "qvitoo – making receipts fun!"
+        "type": "Finans"
+    },
     "ra.se": {
         "domain": "ra.se",
         "org": "Riksarkivet (RA)",
